@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835493034266",
+    "firebase_url": "https://mindfulhacks-115a6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mindfulhacks-115a6",
+    "storage_bucket": "mindfulhacks-115a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835493034266:android:833f492e7991e1d8a694a3",
+        "android_client_info": {
+          "package_name": "com.durianpancakes.mindfulhacks2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835493034266-fa646p2hthkjvl9dijtfn42shsjpnmss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTHS2RKGjbowEQpNlWgIBcTtFeS_OvTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835493034266-fa646p2hthkjvl9dijtfn42shsjpnmss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
